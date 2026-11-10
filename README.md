@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Computer Science at the University of Information Technology-VNUHCM
+🌱 I’m currently studying Computer Science at the University of Information Technology-VNUHCM
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
